@@ -18,16 +18,16 @@
 </select>
 </p>
     <p>Tilldela till ort:</p>
-        <input type="radio" name="göteborg" id="ort_gbg" value="gbf"/>
+        <input type="radio" name="radio" id="ort_gbg" value="gbf"/>
         <label for="ort_gbg">Göteborg</label>
         <br>
-        <input type="radio" name="stockholm" id="ort_sthml" value="sthml"/>
+        <input type="radio" name="radio" id="ort_sthml" value="sthml"/>
         <label for="ort_gbg">Stockholm</label>
         <br>
-        <input type="radio" name="umeå" id="ort_ume" value="ume"/>
+        <input type="radio" name="radio" id="ort_ume" value="ume"/>
         <label for="ort_gbg">Umeå</label>
         <br>
-        <input type="radio" name="luleå" id="ort_lule" value="lule"/>
+        <input type="radio" name="radio" id="ort_lule" value="lule"/>
         <label for="ort_gbg">Luleå</label>
     
         <p>Kategori:<br>
