@@ -9,8 +9,7 @@
 <body>
     <form action="svar.php" method="post">
         Ditt namn: <input type="text" name="namn" /><br />
-        Telefon: <input type="number" name="telefonnummer" /><br />
-        <input type="submit" />
+        Telefon: <input type="number" name="telefon" /><br />
     <p>Prioritet:<br>
 <select name="prio">
 <option value="1" selected>Låg</option>
@@ -52,13 +51,6 @@
     </form>
 
 
-
-
-    <?php
-
-
-
-    ?>
 
 
 </body>
